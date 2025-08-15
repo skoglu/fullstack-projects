@@ -24,8 +24,7 @@ A simple interactive traffic light simulation built using HTML, CSS, and JavaScr
 
 ## 📸 Screenshots
 
-> Add a screenshot of your traffic light interface here: `images/traffic-light.png`
-
+<a href="https://ibb.co/dwHS2pxg"><img src="https://i.ibb.co/dwHS2pxg/traffic-light.png" alt="traffic-light" border="0"></a>
 ## 📚 What I Learned
 
 - Selecting and modifying DOM elements with JavaScript  
