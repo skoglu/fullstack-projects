@@ -1,9 +1,9 @@
-🌐 Personal Web Projects
+# 🌐 Personal Web Projects
 
 Welcome to my collection of web development projects! This repository showcases a variety of hands-on builds created using HTML, CSS, and JavaScript. Each project demonstrates different aspects of web design and interactive functionality.
 
 
-📁 Projects Included
+## 📁 Projects Included
 
 - **Personal Website**  
   A portfolio-style site to showcase my work, skills, and contact information.
@@ -18,14 +18,14 @@ Welcome to my collection of web development projects! This repository showcases 
   A simple simulation of a traffic signal using JavaScript timers and DOM manipulation.
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5 & Semantic Markup  
 - CSS3 with Flexbox & Responsive Design  
 - JavaScript for DOM Manipulation
 
 
-📚 Learning Goals
+## 📚 Learning Goals
 
 These projects were built to strengthen core front-end skills, including:
 
