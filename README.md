@@ -1,6 +1,6 @@
-🌐 Personal Website – Selcuk K
+🌐 Personal Website
 
-A personal website built using HTML and CSS. This project showcases my background, interests, and contact form.
+A personal website built using HTML and CSS.
 
 
 
