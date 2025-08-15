@@ -1,4 +1,4 @@
-## 🌐 Personal Website
+## 🌐 Personal Website Project
 
 A personal website built using HTML and CSS.
 
