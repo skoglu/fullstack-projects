@@ -1,16 +1,16 @@
-🌐 Personal Website
+## 🌐 Personal Website
 
 A personal website built using HTML and CSS.
 
 
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 🔗 [View the website](https://dash.generalassemb.ly/selkoc/build-your-own-personal-website)
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -18,7 +18,7 @@ A personal website built using HTML and CSS.
 
 
 
-✨ Features
+## ✨ Features
 
 - Background image with centered layout
 - Profile image and introduction text
@@ -28,11 +28,11 @@ A personal website built using HTML and CSS.
 
 
 
-📸 Screenshots
+## 📸 Screenshots
 
 <a href="https://ibb.co/B5pH9kF8"><img src="https://i.ibb.co/B5pH9kF8/personal-website.png" alt="personal-website" border="0"></a>
 
-📚 What I Learned
+## 📚 What I Learned
 
 - Structuring semantic HTML
 - Styling with CSS selectors and layout techniques
