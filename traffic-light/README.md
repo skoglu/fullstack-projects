@@ -1,4 +1,4 @@
-# 🚦 Traffic Light Project
+## 🚦 Traffic Light Project
 
 A simple interactive traffic light simulation built using HTML, CSS, and JavaScript. This project demonstrates how to update JavaScript code to control DOM elements and respond to user interactions.
 
