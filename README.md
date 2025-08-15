@@ -9,7 +9,7 @@ Welcome to my collection of web development projects! This repository showcases 
   A portfolio-style site to showcase my work, skills, and contact information.
 
 - **Blog Theme**  
-  A custom blog layout with styled posts and sidebar elements.
+  A custom blog layout with styled posts.
 
 - **Business Website**  
   A professional landing page designed for small businesses.
