@@ -30,10 +30,7 @@ A personal website built using HTML and CSS.
 
 📸 Screenshots
 
-> Add a screenshot of your homepage here:
-> `images/screenshot.png`
-
-
+<a href="https://ibb.co/B5pH9kF8"><img src="https://i.ibb.co/B5pH9kF8/personal-website.png" alt="personal-website" border="0"></a>
 
 📚 What I Learned
 
