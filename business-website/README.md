@@ -25,7 +25,7 @@ A simple, stylish single-page business website built using HTML, CSS and JavaScr
 
 ## 📸 Screenshots
 
-> Add a screenshot of your business homepage here: `images/business-website.png`
+<a href="https://ibb.co/ymq7rdt8"><img src="https://i.ibb.co/ymq7rdt8/business-site.png" alt="business-site" border="0"></a>
 
 ## 📚 What I Learned
 
