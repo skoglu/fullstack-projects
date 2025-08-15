@@ -1,49 +1,34 @@
-🌐 Personal Website
+🌐 Personal Web Projects
 
-A personal website built using HTML and CSS.
+Welcome to my collection of web development projects! This repository showcases a variety of hands-on builds created using HTML, CSS, and JavaScript. Each project demonstrates different aspects of web design and interactive functionality.
 
 
+📁 Projects Included
 
-🚀 Live Demo
+- **Personal Website**  
+  A portfolio-style site to showcase my work, skills, and contact information.
 
-🔗 [View the website on GitHub Pages](https://yourusername.github.io/personal-website)
+- **Blog Theme**  
+  A custom blog layout with styled posts and sidebar elements.
 
+- **Business Website**  
+  A professional landing page designed for small businesses.
+
+- **Traffic Light**  
+  A simple simulation of a traffic signal using JavaScript timers and DOM manipulation.
 
 
 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- Responsive Design Principles
+- HTML5 & Semantic Markup  
+- CSS3 with Flexbox & Responsive Design  
+- JavaScript for DOM Manipulation
 
 
+📚 Learning Goals
 
-✨ Features
+These projects were built to strengthen core front-end skills, including:
 
-- Background image with centered layout
-- Profile image and introduction text
-- Contact form with email input and submit button
-- Semi-transparent background behind text for readability
-- Responsive design using flexbox
-
-
-
-📸 Screenshots
-
-> Add a screenshot of your homepage here:
-> `images/screenshot.png`
-
-
-
-📚 What I Learned
-
-- Structuring semantic HTML
-- Styling with CSS selectors and layout techniques
-- Applying background images and overlays
-- Making text readable over complex backgrounds
-
-
-
-
-
-
+- Structuring clean and semantic HTML
+- Designing responsive layouts with CSS
+- Enhancing interactivity using JavaScript
