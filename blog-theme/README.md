@@ -1,4 +1,4 @@
-## 📝 Blog Theme
+## 📝 Blog Theme Project
 
 A clean and responsive blog layout built using HTML and CSS.
 
