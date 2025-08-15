@@ -22,7 +22,7 @@ A clean and responsive blog layout built using HTML and CSS.
 
 ## 📸 Screenshots
 
-> Add a screenshot of your blog homepage here: `images/blog-theme.png`
+<a href="https://ibb.co/600QJH1F"><img src="https://i.ibb.co/600QJH1F/blog-site.png" alt="blog-site" border="0"></a>
 
 ## 📚 What I Learned
 
