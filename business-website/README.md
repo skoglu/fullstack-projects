@@ -1,4 +1,4 @@
-# 💼 Business Website
+## 💼 Business Website
 
 A simple, stylish single-page business website built using HTML, CSS and JavaScript.
 
