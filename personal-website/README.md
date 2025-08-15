@@ -6,7 +6,7 @@ A personal website built using HTML and CSS.
 
 🚀 Live Demo
 
-🔗 [View the website on GitHub Pages](https://yourusername.github.io/personal-website)
+🔗 [View the website](https://dash.generalassemb.ly/selkoc/build-your-own-personal-website)
 
 
 
